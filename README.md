@@ -13,3 +13,5 @@ Technical Task: Use a separat potentiometer in controlling each of the color of 
 
 
 ![image_67161601](https://user-images.githubusercontent.com/73775639/138858931-820d7f9f-308d-4b7e-baad-75231b7b4126.JPG)
+
+[![video](https://www.youtube.com/watch?v=rKTuzLZIjcs)]
