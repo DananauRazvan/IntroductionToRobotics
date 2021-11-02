@@ -16,3 +16,6 @@ Picture:
 
 Video:
 [![Watch the video](https://i.imgur.com/ivlw05b.jpg)](https://www.youtube.com/watch?v=rKTuzLZIjcs)
+
+# Homework 2
+Technical Task: Building  the  traffic  lights  for  a  crosswalk.
