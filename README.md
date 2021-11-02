@@ -11,7 +11,7 @@ Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Facu
 
 Technical Task: Use a separat potentiometer in controlling each of the color of the RGB led (Red, Green and Blue). The control must be done with digital electronics.
 
-Picture:
+Image:
 ![image_67161601](https://user-images.githubusercontent.com/73775639/138858931-820d7f9f-308d-4b7e-baad-75231b7b4126.JPG)
 
 Video:
