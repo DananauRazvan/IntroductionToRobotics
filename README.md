@@ -25,3 +25,10 @@ Image:
 
 Video:
 [![Watch the video](https://i.imgur.com/RbMgDXk.png)](https://www.youtube.com/shorts/d5bfruJocAU)
+
+# Homework 3
+Tehnical Task: Build an electromagnetic field detector
+
+Image:
+
+Video:
