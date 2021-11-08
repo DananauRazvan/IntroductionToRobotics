@@ -30,5 +30,7 @@ Video:
 Tehnical Task: Build an electromagnetic field detector
 
 Image:
+![IMG-1196](https://user-images.githubusercontent.com/73775639/140739988-41cda95e-1bb1-4d5f-9616-2ccf992eb6ab.jpg)
 
 Video:
+[![Watch the video](https://i.imgur.com/A1vAUkr.jpg)](https://www.youtube.com/shorts/-OBW82aymRc)
