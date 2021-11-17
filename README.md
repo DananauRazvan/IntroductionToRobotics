@@ -24,7 +24,7 @@ Image:
 ![IMG-1184](https://user-images.githubusercontent.com/73775639/139844076-ea2b5cda-3cd3-4e52-9d3f-0fc1851d317e.jpg)
 
 Video:
-[![Watch the video](https://i.imgur.com/RbMgDXk.png)](https://www.youtube.com/shorts/d5bfruJocAU)
+[![Watch the video](https://i.imgur.com/l7EFBH7.jpg)](https://www.youtube.com/shorts/d5bfruJocAU)
 
 # Homework 3
 Tehnical Task: Build an electromagnetic field detector
