@@ -41,3 +41,6 @@ Tehnical Task: The current home-work involves using a joystick in setting the va
 Image:
 ![IMG-1228](https://user-images.githubusercontent.com/73775639/142181352-14468ca0-b993-4fff-92b9-738c717f1335.jpg)
 
+Video:
+[![Watch the video](https://i.imgur.com/Mqq2iXD.jpg](https://www.youtube.com/watch?v=-ln31f5WtBI)
+
