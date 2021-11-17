@@ -34,3 +34,10 @@ Image:
 
 Video:
 [![Watch the video](https://i.imgur.com/A1vAUkr.jpg)](https://www.youtube.com/shorts/-OBW82aymRc)
+
+# Homework 4
+Tehnical Task: The current home-work involves using a joystick in setting the values on each digit of a 4-digit7-segment display connected to a shift register 74hc595. For   maximum grade, you must use interrupts, and for bonus you can save the last value in eeprom.
+
+Image:
+![IMG-1228](https://user-images.githubusercontent.com/73775639/142181352-14468ca0-b993-4fff-92b9-738c717f1335.jpg)
+
